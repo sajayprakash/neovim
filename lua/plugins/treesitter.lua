@@ -16,6 +16,7 @@ return {
         "tsx",
         "typescript",
         "c",
+        "vim",
         "java",
       })
     end,
