@@ -1,6 +1,6 @@
 Based on LazyVim💤
 
-<details><summary>Install the Config<summary>
+<details><summary>Install the Config</summary>
 
 - Make a backup of your current Neovim files:
 
